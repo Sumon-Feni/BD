@@ -117,8 +117,8 @@ https://premiumplug.fun/zee/zee5.php/0-9-zeebangla.m3u8
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kol_Bangla",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/playlist.m3u8
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
 #http://live.balajibroadband.com:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Kol_Bangla",Sun Bangla
