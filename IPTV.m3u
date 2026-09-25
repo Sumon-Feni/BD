@@ -620,8 +620,7 @@ http://live.balajibroadband.com:3500/live/1345.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
-#https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
 
 #EXTINF:-1 group-title="Kinds" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",POGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
