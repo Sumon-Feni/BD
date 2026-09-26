@@ -574,6 +574,16 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports_Se
 #EXTINF:-1 tvg-id="461" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="Sports",Star Sports Select 2 HD
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Sports_Sel2.m3u8
 
+#EXTINF:-1group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg", Fox Sports1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+
+#EXTINF:-1group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg", Fox Sports2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
 http://live.balajibroadband.com:3500/live/1145.m3u8
 
