@@ -141,7 +141,8 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/14_Jalsha_Movi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
-http://live.balajibroadband.com:3500/live/1657.m3u8
+http://103.172.29.30:9991/stream/channelid/14180834.ts
+#http://live.balajibroadband.com:3500/live/1657.m3u8
 
 =============================================================================================
 
