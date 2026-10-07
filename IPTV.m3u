@@ -230,10 +230,10 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png", NH BollyFlix
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyflix-airtel/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png", NH BollyGold
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
