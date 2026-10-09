@@ -172,12 +172,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 https://z5.cply9.workers.dev/live-tv/0-9-209.m3u8
 
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Movies",Colors Cineplex HD
-http://51.75.127.199:3141/colorscineplexhd/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/21_Colors_Cineplex.m3u8
+#http://51.75.127.199:3141/colorscineplexhd/index.m3u8
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/21_Colors_Cineplex.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/17_Star_Gold_Sel.m3u8 
+#http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/17_Star_Gold_Sel.m3u8 
 
 #EXTINF:-1 tvg-id="3096" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Hindi Movies",Star Gold 2 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -453,8 +453,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 ====================================INFOTAINMENT=====================================
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-http://51.75.127.199:3141/natgeohd/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/23_Nat_Geo.m3u8 
+#http://51.75.127.199:3141/natgeohd/index.m3u8
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/23_Nat_Geo.m3u8 
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
 #http://51.75.127.199:3141/natgeowild/index.m3u8
