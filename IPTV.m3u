@@ -542,6 +542,10 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky_Sport.m3u8
 #https://playztv-apps.pages.dev/a-sports/index.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",Eurosport HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://media.hmair.xyz/api/play/Eurosport%20HD.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png",Fox 501
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Fox_Sports.m3u8
 
