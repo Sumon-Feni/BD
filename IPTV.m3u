@@ -327,15 +327,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8
 
 ======================================ENG_MOVIES=======================================
 
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/8Dm6XxN7/Sky-Cinema-Action.png",Sky Cinema Action
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/33_Sky_Action_Cinema.m3u8 
-
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/h1WtQ2S8/sky-cinema-select.png",Sky Cinema Select
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/32_Sky_Cinema_Sel.m3u8 
-
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/9H4W1KQp/sky-cinema-premiere.png",Sky Cinema Premium
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/31_Sky_Cinema_Pre.m3u8
-
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://img.media.jio.com/tvpimages/57/79/301980_1753202723218_l_medium.jpg" group-title="English Movies",Star Movies HD
 http://51.75.127.199:3141/starmovieshd/index.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u
@@ -435,6 +426,14 @@ https://live3-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
 
 #EXTINF:-1group-title="English Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO SIGNATURE
 
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/8Dm6XxN7/Sky-Cinema-Action.png",Sky Cinema Action
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/33_Sky_Action_Cinema.m3u8 
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/h1WtQ2S8/sky-cinema-select.png",Sky Cinema Select
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/32_Sky_Cinema_Sel.m3u8 
+
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/9H4W1KQp/sky-cinema-premiere.png",Sky Cinema Premium
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/31_Sky_Cinema_Pre.m3u8
 
 #EXTINF:-1group-title="English Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png", Cinemax
 http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
