@@ -707,7 +707,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/34_Mtv_HD.m3u8
-http://51.75.127.199:3141/mtvhd/index.m3u8
+http://lordstream.fans:80/live/Kennedy1/Kennedy1/694155.m3u8
 
 #EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
