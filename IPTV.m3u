@@ -461,7 +461,10 @@ http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/24_Nat_Geo_Wild.m3u8
 
 #EXTINF:-1 tvg-id="3444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Infotainment",Discovery HD
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/26_Discovery.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5008:6784567890abcfebcd23aa27e4ac2807
+https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/26_Discovery.m3u8
 
 #EXTINF:-1 tvg-id="3451" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment",Animal Planet HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
