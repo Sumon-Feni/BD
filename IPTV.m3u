@@ -477,6 +477,9 @@ https://wbd.skandha.tv/SC_India/SC_India.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5004:6784567890abcfebcd23aa27e4ac2803
 https://wbd.skandha.tv/Turbo_India/Turbo_India.isml/.mpd
 
+#EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+
 #EXTINF:-1group-title="Infotainment" tvg-logo="https://astromedia.com.my/wp-content/uploads/2026/05/lovenature.png",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
@@ -485,9 +488,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/04226f7b-c8c6-4e07-856d-e4b2a9b27071/INTRAVELPortraitColor.jpg" group-title="Infotainment",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf" group-title="Infotainment",Travel XP
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-id="INWILD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
