@@ -462,6 +462,21 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://pl
 #KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
 https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 
+#EXTINF:-1 tvg-id="3458" tvg-logo="https://tatalogo.pages.dev/480.png" group-title="Infotainment", TLC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5009:6784567890abcfebcd23aa27e4ac2808
+https://wbd.skandha.tv/TLC_HD_India/TLC_HD_India.isml/.mpd
+
+#EXTINF:-1group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/113.png",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5003:6784567890abcfebcd23aa27e4ac2802
+https://wbd.skandha.tv/SC_India/SC_India.isml/.mpd
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5004:6784567890abcfebcd23aa27e4ac2803
+https://wbd.skandha.tv/Turbo_India/Turbo_India.isml/.mpd
+
 #EXTINF:-1group-title="Infotainment" tvg-logo="https://astromedia.com.my/wp-content/uploads/2026/05/lovenature.png",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
