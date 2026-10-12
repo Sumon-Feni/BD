@@ -444,20 +444,20 @@ http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/26_Discovery.m3u8
 
-#EXTINF:-1 tvg-id="3451" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="Infotainment",Animal Planet HD Hindi
+#EXTINF:-1 tvg-id="3451" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Infotainment",Animal Planet HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
-#EXTINF:-1 tvg-id="578" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi
+#EXTINF:-1 tvg-id="578" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="Infotainment",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="821" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_Thumbnail-v6/SOBB_Thumbnail.png" group-title="Infotainment",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Infotainment",Discovery ID HD
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/InvestigationDiscoveryHD_Thumbnail_c628b7d4-5cd1-471f-ba84-d171fae140ae.png" group-title="Infotainment",Discovery ID HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
 https://login.bheem.tv/bpk-tv/22076/output/index.mpd
