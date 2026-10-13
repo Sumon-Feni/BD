@@ -13,6 +13,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Islamic_TV.png/revision/latest?cb=20260221145952",Islamic TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8 
 
+#EXTINF:-1 group-title="BD Entertainment"  tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" ,Duronto TV
+http://103.238.115.159:8080/DUR_CDN_BDIX/index.m3u8
+
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BD Entertainment",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
