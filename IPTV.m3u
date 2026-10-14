@@ -339,12 +339,10 @@ https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8
 ======================================ENG_MOVIES=======================================
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://img.media.jio.com/tvpimages/57/79/301980_1753202723218_l_medium.jpg" group-title="English Movies",Star Movies HD
-http://51.75.127.199:3141/starmovieshd/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u
 
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://img.media.jio.com/tvpimages/79/1/301984_1753202770200_l_medium.jpg" group-title="English Movies",Star Movies Select HD
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/28_Star_Movies_Sel.m3u
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/28_Star_Movies_Sel.m3u
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English Movies",Sony Pix HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
