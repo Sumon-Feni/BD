@@ -126,8 +126,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kol_Bangla",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
-#http://live.balajibroadband.com:3500/live/756.m3u8
+https://shoeblive.com/jh/hot.php/Colors-Bangla-HD.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Kol_Bangla",Sun Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -178,8 +178,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 https://z5.cply9.workers.dev/live-tv/0-9-209.m3u8
 
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Movies",Colors Cineplex HD
-#http://51.75.127.199:3141/colorscineplexhd/index.m3u8
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/21_Colors_Cineplex.m3u8
+https://shoeblive.com/jh/hot.php/Colors-Cineplex-HD.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/21_Colors_Cineplex.m3u8
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies",Star Gold Select HD
 #http://51.75.127.199:3141/stargoldselecthd/index.m3u8
@@ -262,7 +262,8 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Ind Entertainment",Colors
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+https://shoeblive.com/jh/hot.php/Colors-HD.m3u8
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/20_Colors.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Ind Entertainment",SET HD
@@ -737,9 +738,9 @@ https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 ===========================================MUSIC==========================================
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
+https://shoeblive.com/jh/hot.php/MTV-HD.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/34_Mtv_HD.m3u8
-#http://lordstream.fans:80/live/Kennedy1/Kennedy1/694155.m3u8
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
