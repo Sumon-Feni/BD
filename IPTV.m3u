@@ -575,10 +575,6 @@ https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 http://lordstream.fans:80/live/Kennedy1/Kennedy1/152324.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Fox_Sports.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Q37mF9Ty/images-1.png", Sky Sports Cricket 
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky_Sports_Cricket.m3u8
-#http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
- 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=HE_E_10079&token=RiYlIZ&type=watcho
@@ -611,6 +607,24 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/x1gNRK30/Sky-Sports-F1.png" group-title="Sports",Sky Sports F1
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky_Sports_Cricket.m3u8
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/FzzpF1f.png" group-title="Sports",Sky Sports Premier League
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/dVzPgfB3/Sky-Sports-Golf.png" group-title="Sports",Sky Sports Golf
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nLCng5F3/Sky-Sports-Tennis.png" group-title="Sports",Sky Sports Tennis
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sports",Sky Sports Racing 
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports", TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
