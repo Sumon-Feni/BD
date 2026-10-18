@@ -40,27 +40,27 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",Boishakhi 
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/h4MvDDqh/Boishakhi-Tv.jpg",Boishakhi 
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
-#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://imgur.com/Fzfkvqi.png",Gazi TV HD
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/pX42rycV/GTV.jpg",Gazi TV HD
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 
-#EXTINF:-1group-title="BD Entertainment" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",SA TV
+#EXTINF:-1group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/tCdD5bfD/SATV.jpg",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-16 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/fxq0pV2.png",Asian TV
+#EXTINF:-16 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/qvKp30Ws/Asian-Tv.jpg",Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 
-#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="BD Entertainment",Maasranga TV
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",Maasranga TV
 #https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="BD Entertainment",Deepto TV HD
+#EXTINF:-1 group-title="BD Entertainment"tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="BD Entertainment",Channel 9 HD
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",Channel 9 HD
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 #EXTINF:-18 group-title="BD Entertainment" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik HD
