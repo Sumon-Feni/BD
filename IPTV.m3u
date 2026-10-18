@@ -1,38 +1,38 @@
 #EXTM3U 
 
 
-#EXTINF:-1group-title="Islamic" tvg-id="saudi.quran.makkah.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-quran-makkah-tv-hd-live.webp" ,Makkah live
+#EXTINF:-1group-title="Islamic"tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png" ,Makkah live
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 
-#EXTINF:-1group-title="Islamic" tvg-id="saudi.sunnah.madinah.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-sunnah-madinah-tv-hd-live.webp?id=17",Madinah live
+#EXTINF:-1group-title="Islamic"tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png",Madinah live
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/tsgqxjY/Peace-TVBangla.png",Peace TV Bangla 
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/9XxKshxT/Peace-Tv-Bangla.jpg",Peace TV Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Islamic_TV.png/revision/latest?cb=20260221145952",Islamic TV
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png",Islamic TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8 
 
 #EXTINF:-1 group-title="BD Entertainment"  tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" ,Duronto TV
 http://103.238.115.159:8080/DUR_CDN_BDIX/index.m3u8
 
-#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BD Entertainment",BTV
+#EXTINF:-1 group-title="BD Entertainment"tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
-#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.ibb.co/hx5wSMPF/thumbnails-c1f2b5d4367c245d9e9b8f9af8c226f4-goplay-atn-1920-x-1080.png",ATN BANGLA HD 
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/TPnBR3Fs/ATN-BANGLA.jpg",ATN BANGLA HD 
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
-#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://i.ibb.co/VYRS4SJf/channel-i-logo-png-seeklogo-427745.png" group-title="BD Entertainment",Channel I HD
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/28vtd68S/Channel-i.jpg",Channel I HD
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
-#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="BD Entertainment",Bangla Vision
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/yNfp63nv/Bangla-Vision.jpg",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
-#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d",RTV HD
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/9MFbvXhZ/RTV.jpg",RTV HD
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="BD Entertainment",NTV
+#EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/qRRc1msG/NTV.jpg" group-title="BD Entertainment",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
