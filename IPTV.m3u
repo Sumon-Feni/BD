@@ -116,8 +116,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Kol_Bangla",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.zee5.com
-https://shoeblive.com/zee/zee5.php/0-9-zeebangla.m3u8
 #https://z5.cply9.workers.dev/live-tv/0-9-zeebangla.m3u8
+https://shoeblive.com/zee/zee5.php/0-9-zeebangla.m3u8
 
 #EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080list907975089cce4bdf92d0d72c193d3fc5.png" group-title="Kol_Bangla",Zee Bangla SD
 #EXTVLCOPT:http-origin=https://www.zee5.com
@@ -148,7 +148,6 @@ http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Kol_Bangla",Zee Bangla Sonar
 https://shoeblive.com/zee/zee5.php/0-9-zeebanglasonar.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
 http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
