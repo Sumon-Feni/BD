@@ -333,7 +333,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/30_Aj_Entertainment_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-21jpg-1755372369345.webp" group-title="Pak Entertainment",ARY Digital
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/29_Ary_Digital_HD.m3u8
+https://zibo1.tvhunter.top/dsds/index.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/29_Ary_Digital_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-LOCKEDLIVEBUTTONjpg-1757960113731.webp" group-title="Pak Entertainment",Geo Entertainment
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
