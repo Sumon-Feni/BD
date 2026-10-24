@@ -115,7 +115,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Kol_Bangla",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://shoeblive.com/tee/zee5.php/0-9-zeebangla.m3u8
+https://premiumplug.fun/tee/zee5.php/0-9-zeebangla.m3u8
 
 #EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080list907975089cce4bdf92d0d72c193d3fc5.png" group-title="Kol_Bangla",Zee Bangla SD
 #EXTVLCOPT:http-origin=https://www.zee5.com
@@ -125,8 +125,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kol_Bangla",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
-https://shoeblive.com/jh/hot.php/Colors-Bangla-HD.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Kol_Bangla",Sun Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,7 +148,7 @@ http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 https://shoeblive.com/tee/zee5.php/0-9-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
-http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
+http://live.balajibroadband.com:3500/live/1657.m3u8
 
 ======================================HINDI_MOVIES=====================================
 
@@ -176,7 +175,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="1668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="Hindi Movies",And Xplor HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://shoeblive.com/zee/zee5.php/0-9-209.m3u8
+https://premiumplug.fun/tee/zee5.php/0-9-209.m3u8
 
 #EXTINF:-1 tvg-id="1477" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Movies",Colors Cineplex HD
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/21_Colors_Cineplex.m3u8
