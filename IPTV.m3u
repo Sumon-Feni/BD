@@ -29,7 +29,7 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/9MFbvXhZ/RTV.jpg",RTV HD
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
+https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/qRRc1msG/NTV.jpg" group-title="BD Entertainment",NTV
@@ -459,13 +459,13 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1group-title="English Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO SIGNATURE
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/8Dm6XxN7/Sky-Cinema-Action.png",Sky Cinema Action
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/33_Sky_Action_Cinema.m3u8 
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/33_Sky_Action_Cinema.m3u8 
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/h1WtQ2S8/sky-cinema-select.png",Sky Cinema Select
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/32_Sky_Cinema_Sel.m3u8 
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/32_Sky_Cinema_Sel.m3u8 
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/9H4W1KQp/sky-cinema-premiere.png",Sky Cinema Premium
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/31_Sky_Cinema_Pre.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/31_Sky_Cinema_Pre.m3u8
 
 #EXTINF:-1group-title="English Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png", Cinemax
 http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -484,12 +484,18 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 ====================================INFOTAINMENT=====================================
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/23_Nat_Geo.m3u8 
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/23_Nat_Geo.m3u8 
 #http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
 #http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/24_Nat_Geo_Wild.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/24_Nat_Geo_Wild.m3u8
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
