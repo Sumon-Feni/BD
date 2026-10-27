@@ -164,7 +164,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
+
+
 ======================================HINDI_MOVIES=====================================
+
+
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies",Star Gold HD
 #http://51.75.127.199:3141/stargold/index.m3u8
@@ -266,7 +270,11 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
+
+
 =================================IND_ENTERTAINMENT================================
+
+
 
 #EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Ind Entertainment",Star Plus HD
 http://38.96.178.205/STARPLUS/index.m3u8
@@ -326,7 +334,11 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
+
+
 ================================PAK_ENTERTAINMENT================================
+
+
 
 #EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="Pak Entertainment",Aaj Entertainment
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -359,7 +371,11 @@ https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
 #EXTINF:-1 tvg-id="hum.sitaray.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=80" group-title="Pak Entertainment",Hum sitaray
 https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8
 
+
+
 ======================================ENG_MOVIES=======================================
+
+
 
 #EXTINF:-1 tvg-id="1104" tvg-logo="https://img.media.jio.com/tvpimages/57/79/301980_1753202723218_l_medium.jpg" group-title="English Movies",Star Movies HD
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u
@@ -497,7 +513,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="English Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+
+
 ====================================INFOTAINMENT=====================================
+
+
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -594,25 +614,35 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="BBC Earth US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png",BBC Earth US
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
+
+
 ==========================================SPORTS=========================================
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://devm3u.netlify.app/stream/devm3u-tsports/playlist.m3u8
-#https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Cricket
-https://media.hmair.xyz/api/play/Sony%20Ten%20Cricket.m3u8
 
-#EXTINF:-1group-title="Sports" tvg-logo="https://i.ibb.co/4gXdKLhw/323865.png" ,Ten Sports HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302019.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791472105821.png" group-title="Sports",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745304841482.png" group-title="Sports",Ten Cricket
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
+
+#EXTINF:-1group-title="Sports" tvg-logo="https://i.postimg.cc/8cBxLfJG/Ten-Sports-2.png" ,Ten Sports HD
+https://live.msnetworks.net/ten-sports/master.m3u8
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302019.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Ten_Sports.m3u8 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/ptv_Sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",PTV Sports
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/ptv_Sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prtg9Jdk/A-Sports-2.png" group-title="Sports",A sports
 #https://playztv-apps.pages.dev/a-sports/index.m3u8
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+https://live.msnetworks.net/a-sports/master.m3u8
+
+#EXTINF:-1group-title="Sports"  tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",Willow Sports 
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/becf6176-e7a4-4123-9f59-aa541b1cb2f9.jpg", Himalayan Premium HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -652,14 +682,14 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Tspkn5Y/value.png",Cricbuzz¹ HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",Cricbuzz¹ HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JRXs08Xx/value-1.png", Cricbuzz² HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png", Cricbuzz² HD 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
