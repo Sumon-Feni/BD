@@ -151,7 +151,8 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
 
 #EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kol_Bangla",Jalsha Movies HD
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25090.m3u8
+#http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/14_Jalsha_Movies.m3u8
 
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Kol_Bangla",Zee Bangla Sonar
@@ -167,8 +168,8 @@ http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="156" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies",Star Gold HD
 #http://51.75.127.199:3141/stargold/index.m3u8
-http://103.185.24.134:3001/Star-Gold/index.m3u8
-#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/15_Star_gold.m3u8
+#http://103.185.24.134:3001/Star-Gold/index.m3u8
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/15_Star_gold.m3u8
 
 #EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi Movies",Sony Max HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
