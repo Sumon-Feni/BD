@@ -107,7 +107,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 group-title="BD Entertainment" tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 
-#EXTINF:-1group-title="BD Entertainment"  tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",Movie Bangla
+#EXTINF:-1group-title="BD Entertainment"  tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
@@ -121,10 +121,10 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="317" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="Kol_Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-id="317" tvg-logo="https://tatalogo.pages.dev/468.png" group-title="Kol_Bangla",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" group-title="Kol_Bangla",Zee Bangla HD
+#EXTINF:-1 tvg-id="1977" tvg-logo="https://tatalogo.pages.dev/522.png" group-title="Kol_Bangla",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/zee5.php/0-9-zeebangla.m3u8
 
@@ -134,7 +134,7 @@ https://premiumplug.fun/tee/zee5.php/0-9-zeebangla.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="756" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kol_Bangla",Colors Bangla HD
+#EXTINF:-1 tvg-id="756" tvg-logo="https://tatalogo.pages.dev/305.png" group-title="Kol_Bangla",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bangla.m3u8
 
@@ -144,24 +144,24 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/12_Colors_Bang
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #http://live.balajibroadband.com:3500/live/1669.m3u8
 
-#EXTINF:-1 group-title="Kol_Bangla" tvg-logo="https://i.postimg.cc/85GwNPPw/Enterr10-Bangla.jpg",Enterr10 Bangla
+#EXTINF:-1 group-title="Kol_Bangla" tvg-logo="https://tatalogo.pages.dev/788.png",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Kol_Bangla",Sony aath
+#EXTINF:-1 tvg-id="697" tvg-logo="https://tatalogo.pages.dev/34.png" group-title="Kol_Bangla",Sony aath
 https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
 
-#EXTINF:-1 tvg-id="457" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kol_Bangla",Jalsha Movies HD
+#EXTINF:-1 tvg-id="457" tvg-logo="https://tatalogo.pages.dev/537.png" group-title="Kol_Bangla",Jalsha Movies HD
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25090.m3u8
 #http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/14_Jalsha_Movies.m3u8
 
-#EXTINF:-1 tvg-id="685" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Kol_Bangla",Zee Bangla Sonar
+#EXTINF:-1 tvg-id="685" tvg-logo="https://tatalogo.pages.dev/254.png" group-title="Kol_Bangla",Zee Bangla Sonar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/.m3u8
 
-#EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Kol_Bangla",Colors Bangla Cinema
+#EXTINF:-1 tvg-id="1657" tvg-logo="https://tatalogo.pages.dev/896.png" group-title="Kol_Bangla",Colors Bangla Cinema
 http://live.balajibroadband.com:3500/live/1657.m3u8
 
 
