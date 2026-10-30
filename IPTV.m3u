@@ -469,6 +469,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16714
 #EXTINF:-1group-title="English Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://live3-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1group-title="English Movies" tvg-logo="https://i.imgur.com/VU0rKXI.png", HBO2 HD
