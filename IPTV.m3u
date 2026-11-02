@@ -344,7 +344,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 
 #EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp" group-title="Pak Entertainment",Aaj Entertainment
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/30_Aj_Entertainment_HD.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/112401.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/30_Aj_Entertainment_HD.m3u8
 
 #EXTINF:-1  tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-21jpg-1755372369345.webp" group-title="Pak Entertainment",ARY Digital
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/112394.m3u8
