@@ -537,7 +537,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200471.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/23_Nat_Geo.m3u8 
 #http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
