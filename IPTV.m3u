@@ -317,6 +317,8 @@ https://premiumplug.fun/tee/playlist.php/0-9-zeeanmol.m3u8
 #EXTINF:-1 group-title="Ind Entertainment"  tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png", Sony Pal
 https://techandeat.online/sliv/stream.m3u8?id=1000009273|Referer=https://techandeat.online/
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-kal.png",Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h",Colors Rishtey
 #EXTVLCOPT:network-caching=1000
 http://live.balajibroadband.com:3500/live/279.m3u8
@@ -332,6 +334,12 @@ https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://i.imgur.com/BEr1r7L.png",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png", Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1    tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-umang.png",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ind Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
