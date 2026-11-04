@@ -128,7 +128,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 http://premiumplug.fun/tee/playlist.php/0-9-zeebangla.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" group-title="Kol_Bangla",Zee Bangla SD
+#EXTINF:-1  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-366/list/1920x1080lista0006de49f9b4d14b3e63b76723b7e8d.png" group-title="Kol_Bangla",Zee Bangla SD
 #EXTVLCOPT:http-origin=https://www.zee5.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
