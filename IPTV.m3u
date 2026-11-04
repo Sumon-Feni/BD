@@ -513,12 +513,18 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1group-title="English Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO SIGNATURE
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/8Dm6XxN7/Sky-Cinema-Action.png",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://vipeu4k.xyz:8080/live/SeRGN151124/kZHUMmMgJ3/10653.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/33_Sky_Action_Cinema.m3u8 
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/h1WtQ2S8/sky-cinema-select.png",Sky Cinema Select
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://vipeu4k.xyz:8080/live/SeRGN151124/kZHUMmMgJ3/23046.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/32_Sky_Cinema_Sel.m3u8 
 
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/9H4W1KQp/sky-cinema-premiere.png",Sky Cinema Premium
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://vipeu4k.xyz:8080/live/SeRGN151124/kZHUMmMgJ3/86100.m3u8
 #https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/31_Sky_Cinema_Pre.m3u8
 
 #EXTINF:-1group-title="English Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png", Cinemax
