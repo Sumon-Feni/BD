@@ -597,7 +597,7 @@ https://wbd.skandha.tv/SC_India/SC_India.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5004:6784567890abcfebcd23aa27e4ac2803
 https://wbd.skandha.tv/Turbo_India/Turbo_India.isml/.mpd
 
-#EXTINF:-1group-title="Infotainmentpp" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",Epic TV 
+#EXTINF:-1group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",Epic TV 
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment",Travel XP
@@ -609,7 +609,7 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cK5dNqTs/354-s.webp" group-title="Infotainment",4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1group-title="Infotainment'tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",InTravel
+#EXTINF:-1group-title="Infotainment"tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-id="INWILD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png",INWILD
